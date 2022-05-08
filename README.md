@@ -1,2 +1,3 @@
 # typora-pinch-theme
-A theme for typora.
+
+还没准备好...💦
