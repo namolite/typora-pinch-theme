@@ -44,7 +44,7 @@
 
 Install Typora.
 
-Download [release](), unpack and drop all the files into `general` -> `themes` -> `open theme folder`
+Download [release](https://github.com/namolite/typora-pinch-theme/releases), unpack and drop all the files into `general` -> `themes` -> `open theme folder`
 
 <br />
 
