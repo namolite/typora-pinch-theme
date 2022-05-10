@@ -1,6 +1,6 @@
 # typora-pinch-theme
 
-简体中文 | [English](https://github.com/namolite/typora-pinch-theme/blob/main/README)
+简体中文 | [English](README.md)
 
 <br />
 
