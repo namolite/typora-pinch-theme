@@ -14,7 +14,7 @@
 
 一个没什么特色的 typora 主题，偏向于自用，提供测试和分享。
 
-在 Windows 环境下设计和测试，在其他系统下出现问题敬请谅解。
+在 Windows 环境下设计和测试，在其他系统下出现问题敬请谅解。(已经在学 Linux 了)
 
 由于咱真的很菜，该主题可能存在大量问题，在未来的版本会修复。
 
@@ -42,9 +42,11 @@
 
 ## 下载和安装
 
-Install Typora.
+安装任意版本的 [Typora](https://typora.io/)。
 
-Download [release](https://github.com/namolite/typora-pinch-theme/releases), unpack and drop all the files into `general` -> `themes` -> `open theme folder`
+[从这里](https://github.com/namolite/typora-pinch-theme/releases)下载最新的主题文件，将其解压至你的主题文件夹。
+
+更详细的内容可以参阅官方主题文档 [Install Theme (typora.io)](https://theme.typora.io/doc/Install-Theme/)
 
 <br />
 
