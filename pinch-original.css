@@ -358,3 +358,8 @@ hr {
     text-decoration: none;}
 
 
+/* July15th 2022 */
+details > summary {
+    list-style: none;}
+details > summary::marker {
+    display: none;}
