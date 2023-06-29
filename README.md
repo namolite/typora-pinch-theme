@@ -1,4 +1,4 @@
-# typora-pinch-theme
+# typora pinch theme
 
 English | [简体中文](READMEzh_CN.md)
 
